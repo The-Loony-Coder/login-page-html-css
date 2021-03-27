@@ -1,0 +1,16 @@
+*::before,*::after{
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+}
+body {
+    font-family: Monsterrat,sans-serif;
+    font-weight: 500;
+    background-color: #79ceff;
+    background-image:linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
